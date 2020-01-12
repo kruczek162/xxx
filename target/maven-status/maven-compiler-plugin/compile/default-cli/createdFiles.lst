@@ -1,0 +1,8 @@
+pl\kruk\model\User.class
+pl\kruk\services\UserService.class
+servlets\util\ServletsUtil.class
+pl\kruk\repository\UserRepository.class
+servlets\RegisterServlet.class
+servlets\GoddbyServlet.class
+servlets\HelloServlets.class
+servlets\WelcomeServlet.class
